@@ -7,6 +7,7 @@ For :gb: see below.
 * De code, hier boven te downloaden
 * Een USB kabel om je Arduino’s met je computer te verbinden
 * Smartphones per deelnemer/groepje
+
 Optioneel:
 * Doosjes waar je Arduino’s in kunnen
 * Stroombron voor de Arduino’s (batterijen, powerbanks, etc)
@@ -45,6 +46,7 @@ weer terug moeten nemen naar het startpunt. De eerste met die speciale code heef
 * The code, downloadable above
 * A USB cable to connect your Arduinos to your computer
 * Smartphones for each participant/team
+
 Optional:
 * Boxes to put the Arduinos in
 *Power source for the Arduinos (batteries, power banks, etc.)
