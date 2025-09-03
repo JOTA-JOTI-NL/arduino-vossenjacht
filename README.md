@@ -49,7 +49,7 @@ weer terug moeten nemen naar het startpunt. De eerste met die speciale code heef
 
 Optional:
 * Boxes to put the Arduinos in
-*Power source for the Arduinos (batteries, power banks, etc.)
+* Power source for the Arduinos (batteries, power banks, etc.)
 
 ## What is it?
 We’re going to create a foxhunt, but with a twist. Instead of the foxes being real people,
